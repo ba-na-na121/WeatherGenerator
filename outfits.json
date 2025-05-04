@@ -1,0 +1,8 @@
+{
+    "sunny": { "emoji": "👕🕶️🩳", "style": "T-shirt + Sunglasses + Shorts" },
+    "rainy": { "emoji": "🧥🌂🥾", "style": "Raincoat + Umbrella + Boots" },
+    "cloudy": { "emoji": "🧥🧢👖", "style": "Light Jacket + Cap + Pants" },
+    "snow": { "emoji": "🧣🧤🧥", "style": "Scarf + Gloves + Coat" },
+    "cold": { "emoji": "🧦🧥👢", "style": "Down Jacket + Socks + Boots" },
+    "hot": { "emoji": "👗🩴🧴", "style": "Dress + Sandals + Sunscreen" }
+  }
